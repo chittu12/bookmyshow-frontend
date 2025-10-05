@@ -1,5 +1,6 @@
 {
-  "name": "bookmyshow-frontend",
+  "homepage": "https://chittu12.github.io/bookmyshow-frontend",
+   "name": "bookmyshow-frontend",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
