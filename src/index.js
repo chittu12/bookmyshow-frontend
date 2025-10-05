@@ -6,8 +6,9 @@ import './index.css'
 
 createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
+<BrowserRouter basename="/bookmyshow-frontend">
+  <App />
+</BrowserRouter>
+
   </React.StrictMode>
 )
