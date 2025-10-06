@@ -230,7 +230,7 @@ async function submitMovie(e) {
       <div key={m.id} className="p-2 border rounded flex gap-3 items-center">
         {/* ✅ Movie Poster */}
         <img
-        src={`http://192.168.0.104:8080/api/movie/get/movieimage/${m.id}`}
+        src={`http://192.168.0.103:8080/api/movie/get/movieimage/${m.id}`}
           alt={m.title}
           className="w-32 h-32 object-cover rounded"
           onError={(e) => e.target.style.display = 'none'} 
