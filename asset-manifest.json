@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bookmyshow-frontend/static/css/main.32c050e5.css",
-    "main.js": "/bookmyshow-frontend/static/js/main.2609d8d3.js",
+    "main.css": "/bookmyshow-frontend/static/css/main.07021ad5.css",
+    "main.js": "/bookmyshow-frontend/static/js/main.9d695f41.js",
     "index.html": "/bookmyshow-frontend/index.html",
-    "main.32c050e5.css.map": "/bookmyshow-frontend/static/css/main.32c050e5.css.map",
-    "main.2609d8d3.js.map": "/bookmyshow-frontend/static/js/main.2609d8d3.js.map"
+    "main.07021ad5.css.map": "/bookmyshow-frontend/static/css/main.07021ad5.css.map",
+    "main.9d695f41.js.map": "/bookmyshow-frontend/static/js/main.9d695f41.js.map"
   },
   "entrypoints": [
-    "static/css/main.32c050e5.css",
-    "static/js/main.2609d8d3.js"
+    "static/css/main.07021ad5.css",
+    "static/js/main.9d695f41.js"
   ]
 }
